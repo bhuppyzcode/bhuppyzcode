@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>- 🔭 Building Full Stack (MERN) applications.<br>- 💼 Open to Full Stack & React.js opportunities.<br>- 🤝 Looking to collaborate on open-source projects.<br>- 🌱 Learning AWS, Docker, CI/CD, and System Design.<br>- 💬 Ask me about React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, and JavaScript.<br>- ⚡ I believe clean code and great user experience go hand in hand.
+# About Me:
+#### - Building Full Stack (MERN) applications.<br>- Open to Full Stack & React.js opportunities.<br>- Looking to collaborate on open-source projects.<br>- Learning AWS, Docker, CI/CD, and System Design.<br>- Ask me about React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, and JavaScript.<br>- I believe clean code and great user experience go hand in hand.
 
 
 ## 🌐 Socials:
@@ -16,6 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=bhuppyzcode&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=bhuppyzcode&icon=0&color=9)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=bhuppyzcode&icon=0&color=red)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
